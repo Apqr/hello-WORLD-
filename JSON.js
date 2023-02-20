@@ -1,17 +1,17 @@
 [
   {
-    "name":"Satoshi Hirano",
+    "name":"Priyanshu",
     "img":"https://blob.sololearn.com/avatars/d38a0398-2e32-4a54-a249-b263caa8566e.jpg",
-    "country":"Japan",
-    "level":20,
+    "country":"India",
+    "level":16,
     "designation":"Pro",
     "profile":"https://www.sololearn.com/profile/8091773"
   },
    {
-    "name":"Hari Sk",
+    "name":"Jha",
     "img":"https://blob.sololearn.com/avatars/f68294be-387a-410f-8d35-a4b74057da89.jpg",
     "country":"India",
-    "level":6,
+    "level":26,
     "designation":"Student",
     "profile":"https://www.sololearn.com/profile/23264126"
   },
